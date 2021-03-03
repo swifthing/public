@@ -1,5 +1,9 @@
  [
     {
+       "nom":"L'importance de la prière en commun au regard des cinq excuses de Ibn Oumi Maktoum",
+       "url":"http://www.hadithdujour.com/coran/dossier-ibn-oum-maktoum.pdf"
+    },
+    {
        "nom":"Les mérites et les règles de la lecture du Coran",
        "url":"http://www.hadithdujour.com/coran/Les-merites-et-les-regles-de-la-lecture-du-Coran.pdf"
     },
@@ -16,20 +20,8 @@
        "url":"http://www.hadithdujour.com/coran/Les-piliers-du-je%C3%BBne.pdf"
     },
     {
-       "nom":"Les conditions d'acceptation des bonnes actions",
-       "url":"http://www.hadithdujour.com/coran/islam-condition-d-acceptation-des-actes.pdf"
-    },
-    {
        "nom":"Les conditions d'obligation du jeûne du mois de Ramadan",
        "url":"http://hadithdujour.com/coran/conditions-du-jeune.pdf"
-    },
-    {
-       "nom":"99 hadiths du Prophète Muhammad",
-       "url":"http://www.hadithdujour.com/coran/99-HADITHS-DU-PROPHETE.pdf"
-    },
-    {
-       "nom":"Al Hadiths Qudoussi",
-       "url":"http://www.hadithdujour.com/coran/40-HADITHS-QUDOUSSI.pdf"
     },
     {
        "nom":"L'innovation",
@@ -44,40 +36,16 @@
        "url":"http://www.hadithdujour.com/coran/LA-CITADELLE-DU-MUSULMAN.pdf"
     },
     {
-       "nom":"La description de la prière mortuaire",
-       "url":"http://www.hadithdujour.com/coran/salat-janaza.pdf"
-    },
-    {
-       "nom":"La gravité du délaissement de la prière",
-       "url":"http://www.hadithdujour.com/coran/delaissement-de-la-priere-tark-salat.pdf"
-    },
-    {
-       "nom":"Les règles de la prosternation lors de la récitation du Coran",
-       "url":"http://www.hadithdujour.com/coran/soujoud-tilawa.pdf"
-    },
-    {
-       "nom":"La recommandation et les règles de la prière de nuit à la maison durant le mois de Ramadan",
-       "url":"http://www.hadithdujour.com/coran/Tarawih-Ramadan.pdf"
+       "nom":"Les conditions d'acceptation des bonnes actions",
+       "url":"http://www.hadithdujour.com/coran/islam-condition-d-acceptation-des-actes.pdf"
     },
     {
        "nom":"Le Ayn",
        "url":"http://www.hadithdujour.com/coran/dossier-ayn-mauvais-oeil.pdf"
     },
     {
-       "nom":"Le Coran est la parole d'Allah",
-       "url":"http://www.hadithdujour.com/coran/le-Coran-est-la-parole-d-Allah.pdf"
-    },
-    {
        "nom":"Le repentir : ses mérites et ses règles",
        "url":"http://www.hadithdujour.com/coran/Tawba-Le-repentir-Ses-merites-et-ses-regles.pdf"
-    },
-    {
-       "nom":"Les 40 Ahadîth de An-Nawawi",
-       "url":"http://www.hadithdujour.com/coran/40-HADITHS-NAWAWI.pdf"
-    },
-    {
-       "nom":"Les 40 Ahadîth de An-Nawawi (Charh Uthaymin)",
-       "url":"http://www.hadithdujour.com/coran/CHARH-40-HADITHS-NAWAWI.pdf"
     },
     {
        "nom":"Les 8 moments où il est recommandé de lire Ayat Al Koursi",
@@ -92,8 +60,24 @@
        "url":"http://www.hadithdujour.com/coran/Les-glorifiactions-apres-les-prieres-obligatoires.pdf"
     },
     {
+       "nom":"La recommandation et les règles de la prière de nuit à la maison durant le mois de Ramadan",
+       "url":"http://www.hadithdujour.com/coran/Tarawih-Ramadan.pdf"
+    },
+    {
+       "nom":"La description de la prière mortuaire",
+       "url":"http://www.hadithdujour.com/coran/salat-janaza.pdf"
+    },
+    {
+       "nom":"La gravité du délaissement de la prière",
+       "url":"http://www.hadithdujour.com/coran/delaissement-de-la-priere-tark-salat.pdf"
+    },
+    {
        "nom":"Les moments d'invocation durant le hajj",
        "url":"http://www.hadithdujour.com/coran/Les-moments-d-invocation-durant-le-hajj.pdf"
+    },
+    {
+       "nom":"Les règles de la prosternation lors de la récitation du Coran",
+       "url":"http://www.hadithdujour.com/coran/soujoud-tilawa.pdf"
     },
     {
        "nom":"Les règles concernant le rattrapage des jours non-jeûnés de Ramadan",
@@ -120,12 +104,32 @@
        "url":"http://www.hadithdujour.com/coran/regles-aid.pdf"
     },
     {
+       "nom":"Où est Allah ?",
+       "url":"http://www.hadithdujour.com/coran/ou-est-Allah.pdf"
+    },
+    {
+       "nom":"Le Coran est la parole d'Allah",
+       "url":"http://www.hadithdujour.com/coran/le-Coran-est-la-parole-d-Allah.pdf"
+    },
+    {
        "nom":"Mouhamed Ibn Abdillah صلى الله عليه و سلم est le dernier des Prophètes",
        "url":"http://www.hadithdujour.com/coran/Al-Ahmadiya.pdf"
     },
     {
-       "nom":"Où est Allah ?",
-       "url":"http://www.hadithdujour.com/coran/ou-est-Allah.pdf"
+       "nom":"99 hadiths du Prophète Muhammad",
+       "url":"http://www.hadithdujour.com/coran/99-HADITHS-DU-PROPHETE.pdf"
+    },
+    {
+       "nom":"Al Hadiths Qudoussi",
+       "url":"http://www.hadithdujour.com/coran/40-HADITHS-QUDOUSSI.pdf"
+    },
+    {
+       "nom":"Les 40 Ahadîth de An-Nawawi",
+       "url":"http://www.hadithdujour.com/coran/40-HADITHS-NAWAWI.pdf"
+    },
+    {
+       "nom":"Les 40 Ahadîth de An-Nawawi (Charh Uthaymin)",
+       "url":"http://www.hadithdujour.com/coran/CHARH-40-HADITHS-NAWAWI.pdf"
     },
     {
        "nom":"Riyad as-Salihin",
