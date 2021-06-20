@@ -1,7 +1,16 @@
  [ 
-{ "nom": "Les mérites et les règles du jeûne des six jours du mois de Chawwal",
-  "url": "http://www.hadithdujour.com/coran/Les-merites-et-les-regles-du-jeune-des-six-jours-du-mois-de-Chawwal.pdf"
-},
+    {
+       "nom":"L'interdiction de la musique dans l'islam",
+       "url":"http://www.hadithdujour.com/coran/dossier-musique.pdf"
+    },
+    {
+       "nom": "L'interdiction de la musique et des instruments de musique",
+       "url": "http://www.hadithdujour.com/coran/Musique-Islam.pdf",
+    },
+    { 
+       "nom": "Les mérites et les règles du jeûne des six jours du mois de Chawwal",
+      "url": "http://www.hadithdujour.com/coran/Les-merites-et-les-regles-du-jeune-des-six-jours-du-mois-de-Chawwal.pdf"
+    },
     {
        "nom":"L'explication des versets de la sourate Al Baqara sur le jeûne ",
        "url":"http://www.hadithdujour.com/coran/L-explication-des-versets-de-la-sourate-Al-Baqara-sur-le-jeune.pdf"
@@ -53,10 +62,6 @@
     {
        "nom":"L'innovation",
        "url":"http://www.hadithdujour.com/coran/innovation.pdf"
-    },
-    {
-       "nom":"L'interdiction de la musique dans l'islam",
-       "url":"http://www.hadithdujour.com/coran/dossier-musique.pdf"
     },
     {
        "nom":"La Citadelle Du Musulman",
