@@ -1,11 +1,15 @@
  [ 
     {
+       "nom":"Les règles de la odhiya et de son sacrifice",
+       "url":"http://www.hadithdujour.com/coran/regles-odhiya.pdf"
+    },
+    {
        "nom":"Les règles du 'Id Al Adha",
        "url":"http://www.hadithdujour.com/coran/regles-du-Id-Al-Adha.pdf"
     },
     {
-       "nom":"Les règles de la odhiya et de son sacrifice",
-       "url":"http://www.hadithdujour.com/coran/regles-odhiya.pdf"
+       "nom":"Les règles du 'Id Al Adha (2)",
+       "url":"http://www.hadithdujour.com/coran/regles-aid-adha.pdf"
     },
     {
        "nom":"L'interdiction de la musique dans l'islam",
@@ -138,10 +142,6 @@
     {
        "nom":"Les règles de la zakat al fitr",
        "url":"http://www.hadithdujour.com/coran/Dossier-Les-regles-de-la-zakat-al-fitr.pdf"
-    },
-    {
-       "nom":"Les règles du 'Id Al Adha",
-       "url":"http://www.hadithdujour.com/coran/regles-aid-adha.pdf"
     },
     {
        "nom":"Les règles du 'Id Al Fitr",
