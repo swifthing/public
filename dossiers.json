@@ -1,8 +1,8 @@
  [ 
-  {
-   "nom": "Achoura : Explications et leçons de l'histoire de Moussa et de la fin de la tyrannie du pharaon",
-   "url": ""
-  },
+    {
+       "nom": "Achoura : Explications et leçons de l'histoire de Moussa et de la fin de la tyrannie du pharaon",
+       "url": "http://www.hadithdujour.com/coran/Achoura-Explications-et-lecons-de-l-histoire-de-Moussa.pdf"
+    },
     {
        "nom":"Les règles de la odhiya et de son sacrifice",
        "url":"http://www.hadithdujour.com/coran/regles-odhiya.pdf"
@@ -25,7 +25,7 @@
     },
     { 
        "nom": "Les mérites et les règles du jeûne des six jours du mois de Chawwal",
-      "url": "http://www.hadithdujour.com/coran/Les-merites-et-les-regles-du-jeune-des-six-jours-du-mois-de-Chawwal.pdf"
+       "url": "http://www.hadithdujour.com/coran/Les-merites-et-les-regles-du-jeune-des-six-jours-du-mois-de-Chawwal.pdf"
     },
     {
        "nom":"L'explication des versets de la sourate Al Baqara sur le jeûne ",
